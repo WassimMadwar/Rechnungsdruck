@@ -1,0 +1,20 @@
+C:\Users\Wassim\work\C#\Small Project\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Wassim\work\C#\Small Project\Invoice\bin\Debug\Invoice.exe
+C:\Users\Wassim\work\C#\Small Project\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Wassim\work\C#\Small Project\Invoice\obj\Debug\Invoice.csproj.AssemblyReference.cache
+C:\Users\Wassim\work\C#\Small Project\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+C:\Users\Wassim\work\C#\Small Project\Invoice\obj\Debug\Invoice.csproj.GenerateResource.cache
+C:\Users\Wassim\work\C#\Small Project\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\work\C#\Small Project\Invoice\obj\Debug\Invoice.exe
+C:\Users\Wassim\work\C#\Small Project\Invoice\obj\Debug\Invoice.pdb
+C:\Users\Wassim\work\C#\Small Project\Invoice\obj\Debug\Invoice.frmInvoice.resources
+C:\Users\Wassim\work\ToGitHub\C#\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Wassim\work\ToGitHub\C#\Invoice\bin\Debug\Invoice.exe
+C:\Users\Wassim\work\ToGitHub\C#\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Wassim\work\ToGitHub\C#\Invoice\obj\Debug\Invoice.csproj.AssemblyReference.cache
+C:\Users\Wassim\work\ToGitHub\C#\Invoice\obj\Debug\Invoice.frmInvoice.resources
+C:\Users\Wassim\work\ToGitHub\C#\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+C:\Users\Wassim\work\ToGitHub\C#\Invoice\obj\Debug\Invoice.csproj.GenerateResource.cache
+C:\Users\Wassim\work\ToGitHub\C#\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Wassim\work\ToGitHub\C#\Invoice\obj\Debug\Invoice.exe
+C:\Users\Wassim\work\ToGitHub\C#\Invoice\obj\Debug\Invoice.pdb
